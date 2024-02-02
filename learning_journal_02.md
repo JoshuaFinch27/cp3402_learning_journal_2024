@@ -1,7 +1,5 @@
 # Learning Journal for Week 2
 
-##Week
-
 ##Learning Activities & Resources
 
 ##Estimated Hours
