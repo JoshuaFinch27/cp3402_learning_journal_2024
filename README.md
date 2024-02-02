@@ -1,1 +1,1 @@
-# cp3402_learning_journal_2024
+# This repo is for the 2024 learning journals of the JCU subject CP3402
