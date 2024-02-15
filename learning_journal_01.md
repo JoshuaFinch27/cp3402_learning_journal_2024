@@ -1,6 +1,6 @@
 # Learning Journal for Week 1
 
-##Learning Activities & Resources
+## Learning Activities & Resources
 This week I mainly studied the LinkedIn Learning course and re-watched videos from a previous uni subject on
 CSS and HTML coding as a refresher before attempting the practical.
 
