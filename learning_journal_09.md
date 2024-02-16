@@ -1,9 +1,19 @@
 # Learning Journal for Week 9
 
-##Learning Activities & Resources
+## Learning Activities & Resources
 
-##Estimated Hours
+WRITE HERE
 
-##Content Insights
+## Estimated Hours
 
-##Career/Employability/Learning Insights
+WRITE HERE
+
+
+## Content Insights
+
+WRITE HERE
+
+
+## Career/Employability/Learning Insights
+
+WRITE HERE
