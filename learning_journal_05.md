@@ -2,11 +2,14 @@
 
 ## Learning Activities & Resources
 
-WRITE HERE
+
+
+
 
 ## Estimated Hours
 
-WRITE HERE
+3 (assignment is not counted as a 'learning' activity)
+~11 hours if counted
 
 
 ## Content Insights
